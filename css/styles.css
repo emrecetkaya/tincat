@@ -26,6 +26,11 @@ p {
 #title {
   background-color: #ff4c68;
   color: white;
+  max-width: 65rem;
+}
+
+#first-page {
+  padding: 0;
 }
 
 .container-fluid {
